@@ -14,8 +14,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🌱 I’m currently learning Java
 - 📫 How to reach me - halderpranay242@gmail.com
  
- 
- 
+ **Organization**
+ <br />
+ [<img align="left" alt="Yoursofto | Organization" width="45px" src="https://avatars.githubusercontent.com/u/66659991?s=200&v=4" />][organization]
+ <br />
 **Connect With Me**
 <br />
 <br />
@@ -52,7 +54,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="25" src="https://avatars.githubusercontent.com/u/66659991?s=200&v=4"></code>
+
 
 
 
@@ -77,6 +79,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [instagram]: https://instagram.com/pranayh5
 [github]: https://github.com/PranayHalder
 [linkedin]: https://www.linkedin.com/in/punii
+[organization]: https://github.com/Yoursofto
 <!---
 PranayHalder/PranayHalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
