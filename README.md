@@ -39,8 +39,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  📈 My GitHub Stats
  <br />
  <br />
-<img align="middle"  alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&theme=gotham" />
-     
+<img   alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&theme=gotham" />
+<img   alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayHalder&layout=compact&theme=gotham" />    
  
 
  
