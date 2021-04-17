@@ -1,6 +1,7 @@
 ### Hi, I’m PranayHalder 👋 
  
  ![](https://badges.pufler.dev/visits/PranayHalder/PranayHalder) 
+ ![](https://badges.pufler.dev/years/PranayHalder) 
  ![](https://badges.pufler.dev/commits/monthly/PranayHalder) 
  ![](https://badges.pufler.dev/repos/PranayHalder) 
 
