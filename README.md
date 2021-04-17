@@ -43,11 +43,11 @@
 
 
  
- <center>
+ 
   
-       <img align="left"  alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&show_icons=true&hide_border=true" /> 
+ <img align="middle"  alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&show_icons=true&hide_border=true" /> 
      
-</center>
+ 
 
  
  
