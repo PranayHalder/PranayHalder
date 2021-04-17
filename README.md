@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <br />
  <br />
 <img   alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&theme=gotham" />
-<img   alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayHalder&layout=compact&theme=gotham" />    
+<img   alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayHalder&layout=compact&theme=dracula" />    
  
 
  
