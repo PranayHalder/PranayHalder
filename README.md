@@ -14,6 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
 **Connect With Me**
 <br />
+<br />
  [<img align="left" alt="yoursofto.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Pranay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Pranay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -25,8 +26,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <br />
   
   
-### Technologies
-
+**Technologies**
+ <br />
+ <br />
+ 
  <img align="left" alt="Laravel" width="40px" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" />
  <img align="left" alt="Php" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 
