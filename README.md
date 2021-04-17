@@ -14,12 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🌱 I’m currently learning Java
 - 📫 How to reach me - halderpranay242@gmail.com
  
- **Organizations**
- <br />
- [<img align="left" alt="Yoursofto | Organization" width="45px" src="https://avatars.githubusercontent.com/u/66659991?s=200&v=4" />][organization]
- <br />
- <br />
- <br />
+
 **Connect With Me**
 <br />
 <br />
