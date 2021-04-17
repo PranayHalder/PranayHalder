@@ -45,7 +45,7 @@
  
  
   
- <img align="middle"  alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&show_icons=true&hide_border=true" /> 
+ <p align="center"><img align="middle"  alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&show_icons=true&hide_border=true&theme=radical" /></p> 
      
  
 
