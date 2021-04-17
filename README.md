@@ -38,12 +38,19 @@
  <br />
  <br />
  
-<tr>
- <td><img align="left" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayHalder&layout=compact&hide_border=true" /></td>
- <td><img align="left" alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&show_icons=true&hide_border=true" /></td>
-</tr>
+
  
+
+
  
+ <center>
+  <table>
+    <tr>
+        <td><img align="left"  width="400px" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayHalder&layout=compact&hide_border=true" /></td>
+        <td> <img align="left" width="495px" alt="Stats"  src="https://github-readme-stats.vercel.app/api?username=PranayHalder&show_icons=true&hide_border=true" /></td>
+    </tr>   
+  </table>
+</center>
 
  
  
